@@ -1,0 +1,40 @@
+{
+    "acknowledged": false,
+    "active": true,
+    "component": "Software",
+    "devices": [
+        {
+            "system-ip": "192.168.255.15"
+        }
+    ],
+    "entry_time": 1637174976504,
+    "eventname": "utd-update",
+    "message": "UTD update",
+    "receive_time": 1637174976501,
+    "rule_name_display": "UTD_Update",
+    "rulename": "utd-update",
+    "severity": "Major",
+    "severity_number": 2,
+    "statcycletime": 1637174598000,
+    "suppressed": false,
+    "system_ip": "192.168.255.15",
+    "type": "utd-update",
+    "uuid": "9aa618e0-cf52-4050-b780-eb4636eaaaa",
+    "values": [
+        {
+            "host-name": "sample_hostname",
+            "status": "utd-update-status-failure",
+            "system-ip": "192.168.255.15",
+            "type": "utd-update-type-urlf",
+            "version": "0-0"
+        }
+    ],
+    "values_short_display": [
+        {
+            "host-name": "sample_hostname",
+            "status": "utd-update-status-failure",
+            "system-ip": "192.168.255.15",
+            "type": "utd-update-type-urlf"
+        }
+    ]
+}
